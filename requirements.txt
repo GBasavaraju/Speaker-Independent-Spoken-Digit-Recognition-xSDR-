@@ -1,0 +1,12 @@
+numpy==1.24.0
+scipy==1.10.0
+matplotlib==3.7.1
+IPython==7.31.1
+librosa==0.10.1
+pandas==1.5.3
+scikit-learn==1.0.2
+torch==2.0
+torchvision==0.15.1
+tqdm==4.65.0
+tensorboard==2.6.0
+logging
